@@ -1,5 +1,9 @@
 [
 {
+    "name": "reddit gradient",
+    "colors": ["#CEE3f8", "#8AEAD0"]
+},
+{
     "name": "Intuitive Purple",
     "colors": ["#DA22FF", "#9733EE"]
 },
